@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "registry": "https://registry.npm.org/"
   },
   "repository": {
     "type": "git",
@@ -29,5 +29,5 @@
   "dependencies": {
     "immer": "^9.0.6"
   },
-  "gitHead": "020cb729635cc5abc1befb3bce22e8459603d136"
+  "gitHead": "d37798420ffacf2527472b9e8d4b568a639e80b6"
 }
