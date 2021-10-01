@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://8.129.71.207:8081/repository/npm_ginna/"
+    "registry": "https://registry.npm.org/"
   },
   "repository": {
     "type": "git",
