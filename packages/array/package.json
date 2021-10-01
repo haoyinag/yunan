@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "access": "public"
+    "registry": "https://registry.npm.org/"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/haoyinag/yunan/issues"
   },
-  "gitHead": "f4e90deb23a454f63d06ed58a32a8c8ce90362c3"
+  "gitHead": "54e5bb2892a103d45bab2e88099ca0849c1135c7"
 }
