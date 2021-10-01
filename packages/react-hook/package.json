@@ -1,6 +1,6 @@
 {
   "name": "@usi-react/hook",
-  "version": "0.0.3",
+  "version": "0.0.4-alpha.0",
   "description": "> TODO: description",
   "author": "Yu Nan <haoyinag0@hotmail.com>",
   "homepage": "https://github.com/haoyinag/yunan#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/haoyinag/yunan/issues"
   },
   "dependencies": {
-    "@usi-utils/pattern": "^0.0.3",
+    "@usi-utils/pattern": "^0.0.4-alpha.0",
     "immer": "^9.0.6",
     "react": "^17.0.2"
   },
