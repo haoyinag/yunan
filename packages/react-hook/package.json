@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "registry": "https://registry.npm.org/"
   },
   "repository": {
     "type": "git",
@@ -31,5 +31,5 @@
     "immer": "^9.0.6",
     "react": "^17.0.2"
   },
-  "gitHead": "81133a313b409b1be5f9b11856dbb46e58fd724c"
+  "gitHead": "3e6101b5ab256733d62bbb647e1ef219e95e7885"
 }
