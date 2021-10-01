@@ -34,3 +34,5 @@ microroot/
 winpty.exe.stackdump
 
 .*.local
+
+*.log
