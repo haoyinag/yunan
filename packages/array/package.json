@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.org/"
+    "registry": "http://8.129.71.207:8081/repository/npm_ginna/"
   },
   "repository": {
     "type": "git",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/haoyinag/yunan/issues"
   },
-  "gitHead": "788134de4535ebe07676746700d92a006194b343"
+  "gitHead": "e323222e776290e7fc08220150af4686b5e3e060"
 }
