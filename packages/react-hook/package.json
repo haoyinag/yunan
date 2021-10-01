@@ -29,7 +29,8 @@
   "dependencies": {
     "@usi-utils/pattern": "^0.0.9",
     "immer": "^9.0.6",
-    "react": "^17.0.2"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "gitHead": "f649d2c3b286924e37bfb62cc06051d279ec414a"
 }
