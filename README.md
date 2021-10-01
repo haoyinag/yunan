@@ -1,2 +1,3 @@
-# yunan
-使用lenra构建包管理库
+# Use Lerna
+
+使用 lenra 构建包管理库
