@@ -1,6 +1,6 @@
 {
   "name": "@usi-utils/array",
-  "version": "0.0.17",
+  "version": "0.0.20",
   "description": "> TODO: description",
   "author": "Yu Nan <haoyinag0@hotmail.com>",
   "homepage": "https://github.com/haoyinag/yunan#readme",
@@ -16,15 +16,11 @@
   "publishConfig": {
     "registry": "https://registry.npm.org/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/haoyinag/yunan.git"
-  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
     "url": "https://github.com/haoyinag/yunan/issues"
   },
-  "gitHead": "ec2954aa8660a75228399cd6b2beabaaac960632"
+  "gitHead": "cd9d3fab434b585ef196df4384ec799079ac19f7"
 }
