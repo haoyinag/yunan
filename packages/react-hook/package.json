@@ -1,6 +1,6 @@
 {
   "name": "@usi-react/hook",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "> TODO: description",
   "author": "Yu Nan <haoyinag0@hotmail.com>",
   "homepage": "https://github.com/haoyinag/yunan#readme",
@@ -15,7 +15,7 @@
   ],
   "publishConfig": {
     "registry": "https://registry.npm.org/"
-  }, 
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
@@ -23,7 +23,7 @@
     "url": "https://github.com/haoyinag/yunan/issues"
   },
   "dependencies": {
-    "@usi-utils/pattern": "^0.0.19",
+    "@usi-utils/pattern": "^0.0.20",
     "immer": "^9.0.6",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"

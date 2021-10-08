@@ -1,6 +1,6 @@
 {
   "name": "@usi-utils/array",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "description": "> TODO: description",
   "author": "Yu Nan <haoyinag0@hotmail.com>",
   "homepage": "https://github.com/haoyinag/yunan#readme",
@@ -15,7 +15,7 @@
   ],
   "publishConfig": {
     "registry": "https://registry.npm.org/"
-  }, 
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
