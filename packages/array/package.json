@@ -15,11 +15,7 @@
   ],
   "publishConfig": {
     "registry": "https://registry.npm.org/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/haoyinag/yunan.git"
-  },
+  }, 
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
