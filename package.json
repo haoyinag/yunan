@@ -11,7 +11,7 @@
     "lerna": "^4.0.0"
   },
   "scripts": {
-    "commit": "commit",
+    "commit": "git add . && commit",
     "test": "node cli/test.js",
     "prepare": "husky install"
   }
